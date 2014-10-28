@@ -30,5 +30,5 @@ die("<div id='amm{id}tod'> <img src='".$server1."http://i209.photobucket.com/alb
 ![](http://3.bp.blogspot.com/-BgaFSfur6Eg/Tp8P3pINRzI/AAAAAAAAA38/WjU2eqqJoCU/s1600/help_formatos-new.gif)
 ![](http://4.bp.blogspot.com/-vDUzHsDzCCY/Tp8P_hC09LI/AAAAAAAAA4E/tnq8kWGlrkI/s1600/help_indents-new.gif)
 ![](http://4.bp.blogspot.com/-wgiCggTxGBM/Tp8QDu__QvI/AAAAAAAAA4M/duByVU_p0Qk/s1600/help_posicionar-new.gif)
-![](http://1.bp.blogspot.com/-PkIZVpuXXyE/Tp8QMGgKY-I/AAAAAAAAA4U/JIB0AdkKEN4/s1600/help_signos-new.gif
+![](http://1.bp.blogspot.com/-PkIZVpuXXyE/Tp8QMGgKY-I/AAAAAAAAA4U/JIB0AdkKEN4/s1600/help_signos-new.gif)
 ![](http://1.bp.blogspot.com/-YLlV-HyHNaU/Tp8QRZ8vVhI/AAAAAAAAA4c/0skh4zdo5K0/s1600/mensaje_hi5_smillealldays-new.gif)
